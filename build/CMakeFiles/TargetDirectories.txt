@@ -1,0 +1,3 @@
+/Users/kirill/Desktop/caosgit/build/CMakeFiles/caosgit.dir
+/Users/kirill/Desktop/caosgit/build/CMakeFiles/edit_cache.dir
+/Users/kirill/Desktop/caosgit/build/CMakeFiles/rebuild_cache.dir
